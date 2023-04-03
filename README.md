@@ -1,4 +1,4 @@
-## Usage on Linux
+## Usage on LINUX & TERMUX 
 
 ```sh
 
